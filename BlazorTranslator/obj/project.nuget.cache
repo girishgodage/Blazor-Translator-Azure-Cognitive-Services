@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TkmRKXDotObbGHNHJ/kMJ7Q7L50YjNfj0/wOAg++dRcyb6IIyNzaFOsp6AID+4zTafKXZXV8PpgEdfQdS0utA==",
+  "success": true,
+  "projectFilePath": "C:\\DotnetProjects\\BlazorTranslator\\BlazorTranslator\\BlazorTranslator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Om Godage\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Om Godage\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Om Godage\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

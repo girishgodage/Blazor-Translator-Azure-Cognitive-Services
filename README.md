@@ -7,7 +7,7 @@ This translator will be able to translate between all the languages supported by
 
 # Demo
 
-![blazorTranslator](https://github.com/girishgodage/Blazor-Translator-Azure-Cognitive-Services/blob/master/Output/output.gif)
+![blazorTranslator](https://github.com/girishgodage/Blazor-Translator-Azure-Cognitive-Services/blob/main/output/output.gif)
 
 # Read the complete article
 [Multi-Language Translator Using Blazor And Azure Cognitive Services](https://girishgodage.in/blog/multi-Language-Translator-using-blazor-AzureCognitiveServices)
